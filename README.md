@@ -2,6 +2,13 @@
 
 visit card
 
+# interface card 
+![image](https://github.com/user-attachments/assets/d09e3c7c-2a8e-46fe-8c71-e80b44332a7a)
+
+# interface details
+![image](https://github.com/user-attachments/assets/8400414b-431d-42a9-9d81-02a8e3c86463)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
