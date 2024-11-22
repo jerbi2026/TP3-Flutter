@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+import 'components/scrolled_details.dart';
 import 'details.dart';
 
 class VisitCard extends StatelessWidget {
@@ -72,7 +73,7 @@ class VisitCard extends StatelessWidget {
             Navigator.push(
               context,
               MaterialPageRoute(builder: (BuildContext context) {
-                return const Details();
+                return const ScrolledDetails();
               }),
             );
           },
